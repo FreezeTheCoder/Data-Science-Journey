@@ -8,5 +8,6 @@ This is a repository that contains a collection of how I have started learning D
 4) Machine Learning Models -
    1) Linear Regression
    2) KMeans Clustering
+   3) Decision Trees
 
 I will probably edit this description later, cause its 12:15 AM and I am super sleepy.
